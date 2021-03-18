@@ -1,0 +1,17 @@
+{
+  "name": "thezenith",
+  "version": "1.0.0",
+  "description": "thezenith",
+  "main": "thezenith.js",
+  "scripts": {
+    "test": "node thezenith.js"
+  },
+  "author": "thezenith Code",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "ms": "^2.1.3"
+  }
+}
